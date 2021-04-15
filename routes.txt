@@ -1,0 +1,7 @@
+http://ca.test             | localhost
+http://ca.test/index.php   | localhost/index.php
+
+http://ca.test/users.php   | localhost/users.php
+
+http://ca.test/04-15/classworks/          | localhost/04-15/classworks/
+http://ca.test/04-15/classworks/index.php | localhost/04-15/classworks/index.php
